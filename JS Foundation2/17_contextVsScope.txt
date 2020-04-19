@@ -1,0 +1,9 @@
+scope is a function based thing
+scope means what is the variable access of a function when it is invoked
+what is in the variable environment
+
+context - more about object based
+says whats the value of this keyword
+
+context is often determined by how the function is invoked with the value of "this" keyword
+scope refers to the visibility of variables
